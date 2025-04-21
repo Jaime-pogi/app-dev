@@ -1,7 +1,7 @@
 # app-dev
 My first repository.
 # My favorite series
-** When the Weather is Fine**
+**When the Weather is Fine**
 ----------------------
 | Information | Description |
 | ---------- | ------------ |
