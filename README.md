@@ -1,5 +1,3 @@
-# app-dev
-My first repository.
 # My favorite series
 **When the Weather is Fine**
 ----------------------
